@@ -7,4 +7,3 @@ logparser>=0.8.2
 pandas
 gspread
 oauth2client
-logparser
